@@ -29,3 +29,9 @@
     - **sudo apt install python3-pip**
     
     - **git clone https://github.com/hulumulu801/telegram_bot_world_cash.git**
+    
+    - **cd telegram_bot_world_cash**
+    
+    - **pip3 install -r requirement.txt**
+# Как пользоваться:
+  - python3 bot.py ТУТ_
