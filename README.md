@@ -6,12 +6,13 @@
   
   finance_rambler_ru_currencies.py - парсер с сайта
   
-  command_description.txt - файл для подсказок в самом telegram(BotFather-Edit Bots-/setcommands)
+  command_description.txt - файл для подсказок в самом telegram-bot
   
   requirement.txt - зависимости, которые необходимо установить
   
   папка **history_message** - туть сохраняются история переписки с ботом
   
-  папка **jpg** - ава
+  папка **jpg** - авы
 
+  token.pickle - тут сохраненный токен от бота
 
