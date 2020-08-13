@@ -1,9 +1,16 @@
 # Описание бота:
-  Telegram-bot, который "конвертирует"(парсит с сайта: https://finance.rambler.ru/currencies/) валюты стран мира в рубли! А также сохраняет аву и историю переписки!
+  Telegram-bot, который "конвертирует"(парсит с сайта: https://finance.rambler.ru/currencies/) валюты стран мира в рубли! А также сохраняет аву и историю переписки! python3, linux
 # Описание файлов:
   bot.py - сам бот
+  
   finance_rambler_ru_currencies.py - парсер с сайта
-  command description.txt - 
+  
+  command_description.txt - файл для подсказок в самом telegram(BotFather-Edit Bots-/setcommands)
+  
   requirement.txt - зависимости, которые необходимо установить
+  
   папка **history_message** - туть сохраняются история переписки с ботом
   
+  папка **jpg** - ава
+
+
