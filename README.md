@@ -43,3 +43,7 @@
     - пишем сообщение BotFather:
     
       **/setcommands**
+      
+     - вставляем все из **command_description.txt**
+     
+  -
