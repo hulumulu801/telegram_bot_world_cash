@@ -15,4 +15,6 @@
   папка **jpg** - авы
 
   token.pickle - тут сохраненный токен от бота
-
+# Установка:
+  - Качаем tor browser:
+    https://www.torproject.org/download/
