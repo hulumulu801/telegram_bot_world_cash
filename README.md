@@ -19,3 +19,7 @@
   - Качаем tor browser: https://www.torproject.org/download/
   
   - запускаем tor browser(он необходим для парсинга сайта, чтобы не залочили Ваш ip)
+  
+  - открываем терминал и Ctrl+C Ctrl+V:
+    
+    - sudo apt-get update
