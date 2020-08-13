@@ -46,4 +46,4 @@
       
      - вставляем все из **command_description.txt**
      
-  -
+  - **python3 bot.py ТУТ_ТОКЕН_БОТА**
