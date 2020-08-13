@@ -16,5 +16,6 @@
 
   token.pickle - тут сохраненный токен от бота
 # Установка:
-  - Качаем tor browser:
-    https://www.torproject.org/download/
+  - Качаем tor browser: https://www.torproject.org/download/
+  
+  - запускаем tor browser(он необходим для парсинга сайта, чтобы не залочили Ваш ip)
