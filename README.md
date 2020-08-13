@@ -22,4 +22,10 @@
   
   - открываем терминал и Ctrl+C Ctrl+V:
     
-    - sudo apt-get update
+    - **sudo apt-get update**
+    
+    - **sudo apt install git**
+    
+    - **sudo apt install python3-pip**
+    
+    - **git clone https://github.com/hulumulu801/telegram_bot_world_cash.git**
